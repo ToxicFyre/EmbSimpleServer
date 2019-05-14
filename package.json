@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ToxicFyre/EmbSimpleServer/issues"
   },
-  "homepage": "https://github.com/ToxicFyre/EmbSimpleServer#readme"
+  "homepage": "https://github.com/ToxicFyre/EmbSimpleServer#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
