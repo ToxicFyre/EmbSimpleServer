@@ -1,1 +1,1 @@
-exports.PORT = process.env.CONNECTION_URL || 3000;
+exports.PORT = process.env.PORT || 3000;
